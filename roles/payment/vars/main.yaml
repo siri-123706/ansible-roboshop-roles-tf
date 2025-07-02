@@ -1,0 +1,5 @@
+CART_HOST: cart.daws84s.cfd
+USER_HOST: user.daws84s.cfd
+RABBITMQ_HOST: rabbitmq.daws84s.cfd
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123 
