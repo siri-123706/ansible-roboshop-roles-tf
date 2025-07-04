@@ -1,2 +1,2 @@
-REDIS_HOST: redis.daws84s.cfd
-MONGODB_HOST: mongodb.daws84s.cfd
+REDIS_HOST: redis-{{ env }}.daws84s.cfd
+MONGODB_HOST: mongodb-{{ env }}.daws84s.cfd

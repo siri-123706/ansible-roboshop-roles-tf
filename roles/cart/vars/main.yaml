@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.daws84s.cfd
-REDIS_HOST: redis.daws84s.cfd
+CATALOGUE_HOST: catalogue.backend{{ env }}.daws84s.cfd
+REDIS_HOST: redis-{{ env }}.daws84s.cfd
